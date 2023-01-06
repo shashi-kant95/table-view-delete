@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.dfs {
+  display: flex;
+  width: 30vw;
+  justify-content: flex-start;
+  align-items: center;
+  height: 5vh;
+  padding: 1vh;
+  border: 1px solid gray;
+}
+
+.completed {
+  text-decoration: underline;
+}
